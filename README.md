@@ -2,7 +2,7 @@
 
 A production-ready Python system that automates the ingestion, extraction, validation, and ERP upload of Certificate of Analysis (COA) documents for a manufacturing company. This pipeline eliminates manual reading of hundreds of COA files by converting unstructured documents into validated, searchable data inside the ERP system.
 
-## 1. Overview
+## Overview
 
 Manufacturers receive hundreds of COA documents weekly, each containing critical information such as:
 
@@ -33,7 +33,7 @@ This pipeline automates the entire COA workflow:
 
 Users can now retrieve material specifications instantly from within the ERP—without reading any documents manually.
 
-## 2. Workflow
+## Workflow
 
 ```
 1. Supplier COA Uploads (Smartsheet)
